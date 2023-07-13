@@ -2,9 +2,9 @@
 Provider of Free SeedBox hosting
 Get your Free SeedBox Now!
 
-Telegram Channel : https://t.me/privateseedbox_official (Here is all information about seedbox hosting and news)
-Telegram Group   : https://t.me/privateseedbox (A group where you can communicate)
-Website          : https://privateseedbox.xyz/ (Official Website)
+Telegram Channel : https://t.me/privateseedbox_official (Here is all information about seedbox hosting and news)<br>
+Telegram Group   : https://t.me/privateseedbox (A group where you can communicate)<br>
+Website          : https://privateseedbox.xyz/ (Official Website)<br>
 Donate           : https://ko-fi.com/privateseedbox
 
 # Specifications
