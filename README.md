@@ -1,6 +1,6 @@
 # PrivateSeedBox
-Provider of Free SeedBox hosting
-Get your Free SeedBox Now!
+Provider of Free SeedBox hosting<br>
+Get your Free SeedBox Now!<br>
 
 Telegram Channel : https://t.me/privateseedbox_official/ (Here is all information about seedbox hosting and news)<br>
 Telegram Group   : https://t.me/privateseedbox/ (A group where you can communicate)<br>
